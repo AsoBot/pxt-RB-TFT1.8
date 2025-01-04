@@ -48,8 +48,8 @@ enum Color {
   //% color="#275C6B" icon="\uf26c" weight=95 block="RB-TFT18-V2"
  namespace RBTFT18 {
      // Display commands & constants
-     let TFTWIDTH = 160
-     let TFTHEIGHT = 128
+     let TFTWIDTH = 128
+     let TFTHEIGHT = 160
 
      /**
       * TFT Commands
